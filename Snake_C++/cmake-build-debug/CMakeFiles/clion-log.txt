@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba"
+-- Found SFML 2.5.1 in /Library/Frameworks/SFML.framework/Resources/CMake
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug

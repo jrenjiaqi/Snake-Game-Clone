@@ -1,0 +1,3 @@
+/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/CMakeFiles/BlackMamba.dir

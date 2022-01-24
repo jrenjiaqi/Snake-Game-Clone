@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="BlackMamba"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\..\..\Library\;CMake Files\..\..\..\..\..\..\..\..\..\..\Library\Frameworks\;CMake Files\..\..\..\..\..\..\..\..\..\..\Library\Frameworks\SFML.framework\;CMake Files\..\..\..\..\..\..\..\..\..\..\Library\Frameworks\SFML.framework\Resources\;CMake Files\..\..\..\..\..\..\..\..\..\..\Library\Frameworks\SFML.framework\Resources\CMake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BlackMamba">
+				<Option output="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/BlackMamba" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/../lib"/>
+					<Add directory="/Library/Frameworks/SFML.framework"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 BlackMamba"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BlackMamba/fast">
+				<Option output="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/BlackMamba" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/../lib"/>
+					<Add directory="/Library/Frameworks/SFML.framework"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 BlackMamba/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nghanyi/Documents/OneDrive\ -\ Singapore\ Institute\ Of\ Technology/Year\ 1/Trimester\ 2/ICT1009/CPP/Assignment/BlackMamba/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/AssetManager.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/Body.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/DifficultyMenu.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/Drawable.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/Food.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/Game.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/GameMath.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/GamePanel.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/Help.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/HighScore.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/Menu.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/Pause.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/Player.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/Poison.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/Settings.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/Snake.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/SnakeMath.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/Sound.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/State.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/include/StateManager.hpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/AssetManager.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/Body.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/DifficultyMenu.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/Food.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/Game.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/GamePanel.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/Help.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/HighScore.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/Menu.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/Pause.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/Player.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/Poison.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/Snake.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/Sound.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Engine/StateManager.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Math/GameMath.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/src/Math/SnakeMath.cpp">
+			<Option target="BlackMamba"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/../../../../../../../../../../Library/Frameworks/SFML.framework/Resources/CMake/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\..\..\Library\Frameworks\SFML.framework\Resources\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/../../../../../../../../../../Library/Frameworks/SFML.framework/Resources/CMake/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\..\..\Library\Frameworks\SFML.framework\Resources\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/../../../../../../../../../../Library/Frameworks/SFML.framework/Resources/CMake/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\..\..\Library\Frameworks\SFML.framework\Resources\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/../../../../../../../../../../Library/Frameworks/SFML.framework/Resources/CMake/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\..\..\Library\Frameworks\SFML.framework\Resources\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/nghanyi/Documents/OneDrive - Singapore Institute Of Technology/Year 1/Trimester 2/ICT1009/CPP/Assignment/BlackMamba/../../../../../../../../../../Library/Frameworks/SFML.framework/Resources/CMake/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\..\..\Library\Frameworks\SFML.framework\Resources\CMake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
